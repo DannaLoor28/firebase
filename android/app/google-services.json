@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112995702291",
+    "project_id": "movilesfirebase-7b617",
+    "storage_bucket": "movilesfirebase-7b617.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112995702291:android:b36e77160541190f3891e6",
+        "android_client_info": {
+          "package_name": "com.example.practicaflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR1adccjykRH1YuIBoIIVyR-qOi3iDhhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
